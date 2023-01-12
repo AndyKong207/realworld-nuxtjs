@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/home",
+        "_name": "_2a0bd5e8"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/login",
+        "_name": "_17a72f80"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/login",
+        "_name": "_17a72f80"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/profile",
+        "_name": "_b87fc000"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/settings",
+        "_name": "_6583f0ac"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/editor",
+        "_name": "_5e9a3794"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/konghui/Documents/projects/study-projects/part3/module-2/realworld-nuxtjs/pages/article",
+        "_name": "_eaeb3966"
+      }
+    ],
+    "_name": "_46fc841a"
+  }
+]
